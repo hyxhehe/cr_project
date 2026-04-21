@@ -1,7 +1,6 @@
 ---
-alwaysApply: true
+alwaysApply: false
 ---
-
 # AI代码评审规则
 
 ## 评审角色定位

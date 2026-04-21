@@ -1,0 +1,11 @@
+com\itheima\consultant\service\ReservationServiceTest.class
+com\itheima\consultant\mapper\ReservationMapperIntegrationTest.class
+com\itheima\consultant\service\VoucherServiceTest.class
+com\itheima\consultant\mapper\ShopMapperIntegrationTest.class
+com\itheima\consultant\service\ShopServiceTest.class
+com\itheima\consultant\ConsultantApplicationTests.class
+com\itheima\consultant\mapper\VoucherOrderMapperIntegrationTest.class
+com\itheima\consultant\ReservationServiceTest.class
+com\itheima\consultant\controller\ChatControllerTest.class
+com\itheima\consultant\mapper\VoucherMapperIntegrationTest.class
+com\itheima\consultant\repository\RedisChatMemoryStoreTest.class

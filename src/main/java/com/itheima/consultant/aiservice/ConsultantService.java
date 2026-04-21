@@ -1,7 +1,5 @@
 package com.itheima.consultant.aiservice;
 
-import com.itheima.consultant.tools.ReservationTool;
-import com.itheima.consultant.tools.ShopTool;
 import dev.langchain4j.service.MemoryId;
 import dev.langchain4j.service.SystemMessage;
 import dev.langchain4j.service.UserMessage;

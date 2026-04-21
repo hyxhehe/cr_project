@@ -1,7 +1,6 @@
 ---
-alwaysApply: true
+alwaysApply: false
 ---
-
 # 单元测试覆盖率校验规则
 
 ## 角色定义
